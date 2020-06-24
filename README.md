@@ -2,7 +2,7 @@
 This is a web app for diabetes risk prediction made using streamlit and deployed on heroku. The app can be extended for any dataset and would
 be a one stop solution for premilinary exploratory data analysis, data visualization and modeling.
 # ML web app link 🔗
-![https://mrinal007.herokuapp.com/]
+https://mrinal007.herokuapp.com/
 # Steps for local installation ⚙️
 - Clone the repository
 ```
